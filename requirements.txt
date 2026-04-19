@@ -1,0 +1,11 @@
+numpy>=1.26
+pandas>=2.2
+scikit-learn>=1.4
+librosa>=0.10.2
+soundfile>=0.12.1
+torch>=2.2
+streamlit>=1.36
+pyyaml>=6.0.1
+matplotlib>=3.8
+tqdm>=4.66
+kaggle>=1.7.4

@@ -1,0 +1,17 @@
+__pycache__/
+.pytest_cache/
+.venv/
+venv/
+env/
+.mypy_cache/
+.ruff_cache/
+.DS_Store
+*.pyc
+*.pyo
+*.pyd
+*.wav
+*.pt
+*.pth
+models/
+data/processed/
+logs/
